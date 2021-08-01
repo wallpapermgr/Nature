@@ -5,7 +5,7 @@ Nature wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Nature/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Nature/raw/main/install.sh)"
 ```
   
 Manual install:
